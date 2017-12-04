@@ -8,7 +8,7 @@ with the added functionality of background processes. This is accessed by adding
 ```
 
 I've also slightly modified the code to use the [GNU readline library](https://cnswww.cns.cwru.edu/php/chet/readline/rltop.html), 
-so that it may keep a history of your commands and for non-ascii characters such as the arrow keys (↑, ↓) to register as paging 
+so that it can keep a history of your commands and use non-ascii characters such as the arrow keys (↑, ↓) to register as paging 
 through your history.
 
 That's about it! It's super simple.
